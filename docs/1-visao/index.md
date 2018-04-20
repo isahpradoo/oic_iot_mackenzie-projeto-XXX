@@ -1,21 +1,18 @@
 # Documento de Visão do Projeto "NOME DO PROJETO"
 
-Este documento apresenta uma solução de software para o projeto *"NOME DO PROJETO"*, 
+Este documento apresenta uma solução de software para o projeto Sensor de umidade de vaso de planta, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Objetivo 1
-* Objetivo 2
-* Objetivo 3
-* etc.
+* Identificar se uma planta necessita de ser regada ou não.
 
 ## Problema
 
-* Descrição do problema: ___
-* Quem é afetado pelo problema: ____
-* Impacto no negócio: ___
-* Benefícios de uma boa solução: ___
+* Descrição do problema: Muitas vezes, as pessoas esquecem de regar suas plantas.
+* Quem é afetado pelo problema: O meio ambiente.
+* Impacto no negócio: Não há impacto.
+* Benefícios de uma boa solução:Evita que as plantas morram sem água.
 
 ## Definições, abreviações e outros termos do domínio do problema
 
@@ -33,10 +30,10 @@ apresentando os problemas a serem solucionados, as necessidades dos principais e
  
 ## Interessados
 
-* Tipo de interessado 1
-* Tipo de interessado 2
-* Tipo de interessado 3
-* etc.
+* Pessoas que possuem planta em casa
+* Jardineiros
+* Biólogos
+* Floriculturistas
 
 ## Usuários
 
