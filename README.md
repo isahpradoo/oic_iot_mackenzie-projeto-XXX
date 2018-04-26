@@ -1,7 +1,7 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma 05K
-## Projeto: Sensor de umidade de vaso de planta 
+## Projeto: Controle de lampadas e ventiladores da casa
 ## Integrantes do grupo:
 
 * Bernard Prado       31693210
