@@ -1,7 +1,7 @@
 # Objetos Inteligentes Conectados 1 sem. 2018
 
 ## Turma 05K
-## Projeto: Controle de lampadas e ventiladores da casa
+## Projeto: Automação residencial
 ## Integrantes do grupo:
 
 * Bernard Prado       31693210
