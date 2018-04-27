@@ -1,15 +1,15 @@
-# Documento de Visão do Projeto de Controle de lâmpadas e ventiladores da casa
+# Documento de Visão do Projeto Automação residencial
 
-Este documento apresenta uma solução de software para o projeto de Controle de lâmpadas e ventiladores da casa, 
+Este documento apresenta uma solução de software para o projeto de Automação residencial, 
 apresentando os problemas a serem solucionados, as necessidades dos principais envolvidos, o alcance do projeto e as funcionalidades esperadas.
 
 ## Objetivos
 
-* Controlar todas as lâmpadas e ventiladores de todos os cômodos de uma casa.
+* Controlar todas as lâmpadas, ventiladores, etc, de todos os cômodos de uma casa.
 
 ## Problema
 
-* Descrição do problema: Muitas vezes, as pessoas esquecem de apagar as luzes ou desligar os ventiladores.Excesso de iluminação causa  diversos problemas de saúde. Pode alterar os ritmos circadianos, causando problemas de sono. Além disso, a disrupção dos ciclos circadianos também pode estar associada a problemas como depressão e câncer. O efeito atrativo que a luz exerce sobre os insetos também tem consequências sanitárias. Insetos vetores de doenças tais como malária, leishmaniose e mal de Chagas podem ser atraídos por luzes, aproximando-se de populações humanas. Além disso, a própria iluminação aumenta a atividade das pessoas em locais externos durante a noite, aumentando sua exposição a esses inseto.
+* Descrição do problema: Muitas vezes, as pessoas esquecem de apagar as luzes,desligar os ventiladores ou até mesmo de fechar a porta.Excesso de iluminação causa  diversos problemas de saúde. Pode alterar os ritmos circadianos, causando problemas de sono. Além disso, a disrupção dos ciclos circadianos também pode estar associada a problemas como depressão e câncer. O efeito atrativo que a luz exerce sobre os insetos também tem consequências sanitárias. Insetos vetores de doenças tais como malária, leishmaniose e mal de Chagas podem ser atraídos por luzes, aproximando-se de populações humanas. Além disso, a própria iluminação aumenta a atividade das pessoas em locais externos durante a noite, aumentando sua exposição a esses inseto.
 
 * Quem é afetado pelo problema: Vida humana e custo elevados de energia.
 
