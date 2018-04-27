@@ -1,4 +1,4 @@
-# *Nome do Projeto*
+# Automação residencial
 
 ## Documentos
 * Documentação Hardware
